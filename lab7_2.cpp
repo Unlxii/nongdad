@@ -29,7 +29,7 @@ int main(){
 	cout << "Result = " << result;
 	}
 	else{
-			cout << "Lnvalid input!!!";
+			cout << "Invalid input!!!";
 		}
 		
 	
